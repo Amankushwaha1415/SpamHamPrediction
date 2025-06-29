@@ -5,7 +5,7 @@ import nltk
 from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize
 
-stopwords.words('english')
+
 ps=PorterStemmer()
 
 stopword=['a',
